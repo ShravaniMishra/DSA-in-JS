@@ -11,5 +11,8 @@
 // let str = "ShrAvaNi"
 // console.log(str.toLocaleLowerCase())
 
-let str = "  shravani  "
-console.log(str.trim())
+// let str = "  shravani  "
+// console.log(str.trim())
+
+let str = "shravaNi"
+console.log(str.slice(0,4))
