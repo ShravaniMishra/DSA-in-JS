@@ -14,5 +14,9 @@
 // let str = "  shravani  "
 // console.log(str.trim())
 
-let str = "shravaNi"
-console.log(str.slice(0,4))
+// let str = "shravaNi"
+// console.log(str.slice(0,4))
+
+let str = "Shra@123"
+console.log(str.length)
+console.log(typeof str)
